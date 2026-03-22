@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+pydantic
+python-dotenv
+httpx
+langchain
+langchain-groq
+langchain-core
+pandas
+scikit-learn
+numpy
+langgraph
