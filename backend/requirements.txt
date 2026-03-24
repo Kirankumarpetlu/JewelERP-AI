@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+motor
+mongomock-motor
+pymongo
+pydantic
+python-dotenv
+httpx
+langchain
+langchain-groq
+langchain-core
+pandas
+scikit-learn
+numpy
+langgraph
+firebase-admin
